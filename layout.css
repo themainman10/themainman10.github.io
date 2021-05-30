@@ -61,19 +61,16 @@ li a.active {
 .nav-img{
 margin-left: 2.5%;
 margin-right: 2.5%;
-  height: 5%;
+  height: 100px;
   width: auto;
   float: left;
-
-
 
 }
 
 
 
-
 .img1 {
-  height: 400px
+  height: 400px;
   width: auto;
   direction: center;
 }
