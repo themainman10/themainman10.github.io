@@ -57,84 +57,42 @@
      background-color: red;
  }
  /*nav bar ends*/
+ /* sec-1 start*/
  
- .h31 {
-     margin-left: 15px;
- }
- 
- .h1A {
-     margin-left: 10px;
- }
- 
- .p1a {
-     margin-top: 10px;
- }
- 
- .h61 {
-     margin-left: 10px;
- }
- 
- .fh3 {
+ .sec-1-h1-1 {
      text-align: center;
+     font-size: 30px;
+     margin-bottom: 5%;
+     margin-top: 5%;
  }
  
- .fh31 {
-     text-align: center;
-     margin-bottom: 20px;
+ .sec-1-h1 {
+     font-size: 25px;
  }
  
  body {
-     font-family: Arial, Helvetica, sans-serif;
-     background: linear-gradient(rgba(23, 113, 223, 1), rgba(0, 224, 255, 1));
+     background-color: #111;
+     justify-content: center;
  }
  
- * {
-     box-sizing: border-box;
+ .sec-1 {
+     text-align: center;
  }
  
- input[type=text],
- select,
- textarea {
-     width: 100%;
-     padding: 12px;
-     border: 1px solid #ccc;
-     border-radius: 4px;
-     box-sizing: border-box;
-     margin-top: 6px;
-     margin-bottom: 16px;
-     resize: vertical;
- }
- 
- input[type=submit] {
-     background-color: blue;
-     color: white;
-     padding: 12px 20px;
-     border: none;
-     border-radius: 4px;
-     cursor: pointer;
- }
- 
- input[type=submit]:hover {
-     background-color: red;
- }
- 
- .container {
-     padding: 20px;
- }
- 
- .pad {
+ .sec-1-img {
+     width: 80%;
      margin-top: 5%;
-     margin-left: 10%;
-     margin-right: 10%;
+     margin-bottom: 2.5%;
+ }
+ 
+ .sec-1-bio-1 {
+     text-align: center;
+ }
+ 
+ .spac-1 {
      margin-bottom: 10%;
  }
- 
- .h3-1 {
-     text-align: center;
-     margin-top: 5%;
-     margin-bottom: 5%;
-     font-size: 30px;
- }
+ /* sec-1 ends*/
  /* footer starts*/
  
  .footer-background {
