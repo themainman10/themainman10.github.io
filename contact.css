@@ -141,7 +141,7 @@
  .footer-background {
      width: 100%;
      height: auto;
-     background: linear-gradient(rgba(23, 113, 223, 1), rgba(0, 224, 255, 1));
+     background: black;
      opacity: 1;
      position: relative;
      top: 0px;
