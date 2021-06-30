@@ -29,6 +29,7 @@
  
  .nav-list {
      list-style: none;
+     color: #ddd;
  }
  
  .nav-list li {
@@ -129,6 +130,7 @@
      list-style: none;
      margin-top: 5%;
      margin-bottom: 10%;
+     color: #ddd;
  }
  
  .footer-list li {
