@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+.form-sec{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+}
+
+#h3-1-2{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#h3-1-1{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.edu{
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+.career-sec-1{
+    margin-top: 10%;
+    text-align: center;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.img-place-1{
+    width: 50%;
+}
+
+.header{
+    display: inline; 
+}
+
+.text-area-1{
+    display: inline;
+}
+
+.head-img-1{
+    width:100%;
+    border-radius: 50%;
+    float: right;
+}
+
+.head{
+
+    margin-top: 5%;
+    text-align: center;
+    
+}
