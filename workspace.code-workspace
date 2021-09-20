@@ -1,8 +1,13 @@
 {
-    "folders": [
+	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../angelobrownprojectsite/project"
 		}
 	],
-    "settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "themainman10.github.io"
+	}
 }
